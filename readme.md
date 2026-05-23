@@ -290,9 +290,9 @@ dist/DesktopPet.exe
 
 ---
 
-**项目地址**：[你的GitHub仓库地址]
+**项目地址**：[GitHub]
 
-**完整代码**：[CSDN下载链接]
+**完整代码**：[https://download.csdn.net/download/m0_63244368/92900928]
 
 ---
 
