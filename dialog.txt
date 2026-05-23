@@ -1,0 +1,20 @@
+Hello World!
+996 ICU
+BUG呢？BUG去哪了？
+需求改改改
+我写的代码没有bug
+Ctrl+C Ctrl+V
+Stack Overflow救我
+今天不加班
+代码能跑就行
+注释？什么注释？
+Python是最好的语言
+TypeError: 'NoneType' object is not callable
+递归：如果你知道什么是递归，那就不用解释了
+缓存过期了吗？
+404 Not Found
+Git merge冲突了
+npm install失败了
+单元测试？不存在的
+上线前：代码完美；上线后：谁写的垃圾代码
+测试环境：一切正常；生产环境：当场去世
